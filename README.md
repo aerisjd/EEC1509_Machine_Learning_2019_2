@@ -1,4 +1,4 @@
-# EEC10509 Machine Learning 
+# EEC1509 Machine Learning 
 ## 2019.2
 
 - Lesson #01
