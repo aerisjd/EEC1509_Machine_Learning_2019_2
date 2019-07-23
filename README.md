@@ -1,1 +1,6 @@
-# EEC10509_Machine_Learning_2019_2
+# EEC10509 Machine Learning 
+## 2019.2
+
+- Lesson #01
+  - Outline & Directions
+  - Numpy crash course
