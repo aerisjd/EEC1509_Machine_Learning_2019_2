@@ -11,4 +11,9 @@
 		- Main challenges
 		- Test & Validating
 	- End-To-End Project
+- Lesson #03
+	- KNN Regressor (univariate & multivariate)
+	- Hyperparameter optimization
+	- Cross-Validation
+	- Pipeline & GridSearch
 
