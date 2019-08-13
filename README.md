@@ -16,4 +16,11 @@
 	- Hyperparameter optimization
 	- Cross-Validation
 	- Pipeline & GridSearch
+- Lesson #04
+	- Linear regression 
+	- Cost Function
+	- Gradient descend: batch, stochastic, mini-batch
+	- Refresher on Linear Algebra concepts
+	- Case study: house price prediction
+
 
