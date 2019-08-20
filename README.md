@@ -22,5 +22,14 @@
 	- Gradient descend: batch, stochastic, mini-batch
 	- Refresher on Linear Algebra concepts
 	- Case study: house price prediction
+- Lesson #05
+	- Classification
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization (L1, L2)
+	- Hands on Scikit-Learn
+
 
 
