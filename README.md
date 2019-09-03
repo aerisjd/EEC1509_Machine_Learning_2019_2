@@ -30,6 +30,17 @@
 	- Multiclass Classification
 	- Regularization (L1, L2)
 	- Hands on Scikit-Learn
+- Lesson #06
+	- Introduction to Decision Tree
+	- Converting categorical variables
+	- Splitting Data
+	- Decision Trees as flows of data
+	- Entropy & Gini
+	- Information gain
+	- Applying Decision Trees
+	- Overfitting problem
+	- Case study: classification problem
+
 
 
 
