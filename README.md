@@ -40,6 +40,15 @@
 	- Applying Decision Trees
 	- Overfitting problem
 	- Case study: classification problem
+- Lesson #07
+	- Hypothesis test
+	- Significant test
+	- Chi-squared test
+	- Feature Selection for ML
+	- Univariate selection
+	- Recursive feature elimination
+	- Pipelines
+
 
 
 
