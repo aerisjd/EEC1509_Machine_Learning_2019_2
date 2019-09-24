@@ -1,4 +1,4 @@
-# EEC1509 Machine Learning 
+l# EEC1509 Machine Learning 
 ## 2019.2
 
 - Lesson #01
@@ -48,6 +48,14 @@
 	- Univariate selection
 	- Recursive feature elimination
 	- Pipelines
+- Lesson #08
+	- Ensembles (introduction)
+	- Voting classifiers
+	- Bagging & Pasting
+	- Random Forest
+	- Feature Importante (XAI)
+	- Case Study
+
 
 
 
