@@ -55,6 +55,13 @@ l# EEC1509 Machine Learning
 	- Random Forest
 	- Feature Importante (XAI)
 	- Case Study
+- Lesson #09
+	- Ensembles (cont.)
+	- Boosting
+		- Adaboost
+		- Gradient Boost
+		- XGBoost
+
 
 
 
