@@ -61,6 +61,9 @@ l# EEC1509 Machine Learning
 		- Adaboost
 		- Gradient Boost
 		- XGBoost
+- Lesson #10
+	- Getting Started with Kaggle
+	- Kaggle Workflow
 
 
 
