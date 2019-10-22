@@ -64,6 +64,12 @@ l# EEC1509 Machine Learning
 - Lesson #10
 	- Getting Started with Kaggle
 	- Kaggle Workflow
+- Lesson #11
+	- Representing neural network
+	- Nonlinear activation functions
+	- Hidden Layers
+	- Case study: build a handwritten digit classifier
+
 
 
 
