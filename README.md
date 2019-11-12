@@ -69,6 +69,13 @@ l# EEC1509 Machine Learning
 	- Nonlinear activation functions
 	- Hidden Layers
 	- Case study: build a handwritten digit classifier
+- Lesson #12
+	- Introduction to NetworkX
+	- Visualize a network with matplotlib 
+	- Network visualization using Gephi
+	- Combine Gephi & NetworkX
+	- Case Study: constructing a network of Wikipedia Pages
+
 
 
 
