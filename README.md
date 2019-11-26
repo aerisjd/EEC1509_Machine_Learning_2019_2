@@ -75,6 +75,15 @@ l# EEC1509 Machine Learning
 	- Network visualization using Gephi
 	- Combine Gephi & NetworkX
 	- Case Study: constructing a network of Wikipedia Pages
+- Lesson #13
+	- Create Networks from Adjacency and Incidence Matrices
+	- Generate Synthetic Networks
+	- Measuring Networks
+		- Global measures
+		- Explore neighborhoods
+		- Think in terms of paths
+		- Choose the right centralities
+
 
 
 
